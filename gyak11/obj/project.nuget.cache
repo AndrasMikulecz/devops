@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0BqqatbXEx/nNPZdpx20oWtPP9JnZUKmgjK1jg1I+MAO9rpHnHTVa3c18BrPrxuEcZhvSk7+EVOXdUZUVgX/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\i99mrn\\Source\\Repos\\AndrasMikulecz\\devops\\gyak11\\gyak11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i99mrn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
